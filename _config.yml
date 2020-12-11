@@ -10,9 +10,6 @@ tiled_bg:           true   # Set this true if you want to tile your background i
 locale:             en_US
 url:                https://tang-xiaoai.github.io/MoonlightBlog.github.io
 
-#### Language
-language: zh-CN 
-
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
@@ -42,12 +39,12 @@ disqus_shortname:   taylantatli
 #bing-verify:
 # twitter:            username
 weibo:              糖果城里的艾草会开花
-wechat:             xiaoai
+# wechat:             xiaoai
 github-url:         https://github.com/Tang-xiaoai
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          don't have
+# instagram:          don't have
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
